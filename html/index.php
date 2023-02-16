@@ -28,8 +28,8 @@
       </thead>
       <tbody>
         <?php
-        $conexion = mysqli_connect("mysql", "root", "1234","SG");
-      
+        $conexion = mysqli_connect("mysql", "root", "my_password","database_name");
+     
 
         $cadenaSQL = "select * from s_customer";
         $resultado = mysqli_query($conexion,$cadenaSQL);

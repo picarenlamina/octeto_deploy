@@ -1,3 +1,4 @@
+# source https://www.okteto.com/docs/reference/manifest/
 name: php
 command: "bash"
 environment:

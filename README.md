@@ -1,3 +1,3 @@
 # octeto_deploy
 
-Despliega una apliacion php en Okteto
+Despliega una aplicacion php en Okteto utilizando un docker_compose 
